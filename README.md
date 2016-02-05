@@ -2,7 +2,7 @@
 
 **Author:** Lydia Roth
 
-**Due date:** _\<date\>_
+**Due date:**  2/5/16
 
 ## Description
 
