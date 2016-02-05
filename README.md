@@ -1,6 +1,6 @@
 # Git Workflow
 
-**Author:** _\<your name\>_
+**Author:** Lydia Roth
 
 **Due date:** _\<date\>_
 
